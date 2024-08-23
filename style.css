@@ -1,0 +1,36 @@
+.black{
+    background-color: black;
+}
+
+.box{
+    img{
+        width: 300px;
+    }
+}
+
+
+.openorclose{
+    display: none;
+}
+
+
+
+
+.openorclose{
+    display: none;
+}
+
+.blue{
+    color: blue;
+} 
+
+
+
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
